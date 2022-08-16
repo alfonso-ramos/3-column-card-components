@@ -108,4 +108,12 @@ p{
     .card p{
         margin-bottom: 12rem;
     }
+    .sedan{
+        border-top-left-radius: 1.2rem;
+        border-bottom-left-radius: 1.2rem;
+    }
+    .luxury{
+        border-top-right-radius: 1.2rem;
+        border-bottom-right-radius: 1.2rem;
+    }
 }
