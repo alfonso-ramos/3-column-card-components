@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/alfonso-ramos/3-column-card-components/blob/master/Screenshot.JPG?raw=true)
 
 ### Links
 
